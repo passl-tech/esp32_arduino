@@ -11,3 +11,8 @@ include Wire.h, connect SDA to pin 21 and SCL to pin 22 on Devkit C V4
 
 ## Sensor
 HTU21D temperature and humidity sensor. Libraries: HTU21DF by Adafruit.
+
+### Potentially hackable device
+Temperaturen and humidity Sensor with display, sold by Lidl
+
+![IMG_20231103_132158](https://github.com/user-attachments/assets/51873188-a212-4e90-bd01-54defca71e91)
